@@ -10,6 +10,12 @@ title: 朱天宇的个人博客
 这里是我的个人博客，主要记录我的学习经历和日常生活，
 期待我们一起无限进步！！
 
+## 展示区
+
+<p>
+  <img src="{{ '/assets/images/just-do-it.jpg' | relative_url }}" alt="写有 Just Do It 和「没有捷径，只有坚持」的运动海报" width="1080" height="860" style="display: block; width: 100%; height: auto; border-radius: 8px;">
+</p>
+
 ## 关于我
 
 - 学校：ccnu
